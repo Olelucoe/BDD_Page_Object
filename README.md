@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/b8ja7sae5br02xdb?svg=true)](https://ci.appveyor.com/project/Olelucoe/bdd-page-object)
